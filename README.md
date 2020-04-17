@@ -1,1 +1,3 @@
-# Treinamento Vuejs - Vue Mastery - https://www.vuemastery.com/
+# Treinamento Vuejs - Vue Mastery
+
+https://www.vuemastery.com/
