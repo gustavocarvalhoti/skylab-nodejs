@@ -9,3 +9,4 @@ npm install cors -S         <- Expor a API - CORS
 
 ##Iniciar o backend
 node server.js
+npm run serve
