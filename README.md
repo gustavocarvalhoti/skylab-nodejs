@@ -1,3 +1,3 @@
-# Treinamento Vuejs - Vue Mastery
+# Treinamento Node.js
 
-https://www.vuemastery.com/
+https://skylab.rocketseat.com.br/node/curso-node-js
