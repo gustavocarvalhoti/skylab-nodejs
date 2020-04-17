@@ -1,0 +1,11 @@
+#Comandos
+npm init -y                 <- Inicia a app, cria o package.json
+npm install express -S      <- Cuida das rotas e views
+npm install nodemon -D      <- Auto deploy
+npm install mongoose -S     <- ORM, tras os inserts, delete e etc pronto
+npm install mongoose-paginate -S <- Paginação
+npm install require-dir -S  <- Utilizado no import dos models, para gerar menos codigo
+npm install cors -S         <- Expor a API - CORS
+
+##Iniciar o backend
+node server.js
