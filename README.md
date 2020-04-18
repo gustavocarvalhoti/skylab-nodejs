@@ -1,17 +1,17 @@
-# Treinamento Node.js, mongodb, paginação, auto deploy, expor api, rotas
+# Treining Node.js, mongodb, pagination, auto deploy, export api, routes
 https://skylab.rocketseat.com.br/node/curso-node-js
 
-## Config project
+## Configuring the project
 ```
 ###install docker 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
-Não esquecer esse -> sudo usermod -aG docker your-user-here
+Don't forget this -> sudo usermod -aG docker your-user-here
 
 ###install mongo
 docker pull mongo
 docker run -d -p 27017-27019:27017-27019 --name mongodb mongo
-docker exec -it mongodb bash <- Acessar o container
+docker exec -it mongodb bash <- Open the container
 
-###Utilizei o insomnia para testar a API
+###Insomnia for API test
 https://support.insomnia.rest/article/23-installation#ubuntu
 ```
