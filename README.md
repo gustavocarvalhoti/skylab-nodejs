@@ -1,4 +1,4 @@
-# Treining Node.js, mongodb, pagination, auto deploy, export api, routes
+# Treining Node.js, mongodb, pagination, hot deploy, export api, routes
 https://skylab.rocketseat.com.br/node/curso-node-js
 
 ## Configuring the project
